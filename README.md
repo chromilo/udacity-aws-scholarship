@@ -7,3 +7,7 @@ What will I work on today?
 What issues are blocking my progress?
 
 ---
+Day 1:
+1.  Yesterday and the days before this, I finished up to AWS MLE lesson 2.5.
+2.  Today I finished AWS MLE lesson 2.8. 
+3.  No blockers.
