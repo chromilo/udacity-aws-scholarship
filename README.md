@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 4:
+1.  Yesterday I finished AWS MLE lessone 2.16.
+2.  Today I finished AWS MLE lesson 2.20. Updated my Github blog. 
+3.  Wore my mask outside today not due to Covid but instead to stop inhaling smoke particles.
+
 Day 3:
 1.  Yesterday I finished AWS MLE lessone 2.13.
 2.  Today I finished AWS MLE lesson 2.16. Updated my Github blog. 
