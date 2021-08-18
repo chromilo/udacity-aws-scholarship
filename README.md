@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 5:
+1.  Yesterday I took some time off to play some soccer. Friend got injured with complete closed talus dislocation on his right ankle. A 90 degree dislocation at ball joint. Couldn't study much after hearing that.
+2.  Today I finished AWS MLE lesson 3.4. Updated my Github blog. 
+3.  I no longer have free tier so I would have to figure out which of the exercises to do.
+
 Day 4:
 1.  Yesterday I finished AWS MLE lessone 2.16.
 2.  Today I finished AWS MLE lesson 2.20. Updated my Github blog. 
