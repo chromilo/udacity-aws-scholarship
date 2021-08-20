@@ -8,7 +8,7 @@ What issues are blocking my progress?
 
 ---
 Day 6:
-1.  Yesterday I completed AWS MLE lesson 3.4. I also started preparing for the Udemy course by Ryan Kroonenburg to prepare AWS Solutions Architect Associate exam by Sep 12, 2021. Currently at lesson 2 out of 13 there.
+1.  Yesterday I completed AWS MLE lesson 3.4. I also started with the Udemy course by Ryan Kroonenburg to prepare for the AWS Solutions Architect Associate exam by Sep 12, 2021. Currently at lesson 2 out of 13 there.
 2.  Today I finished AWS MLE lesson 3.8. Updated my Github blog. 
 3.  Can't focus. I have multiple courses to try and get in front of in the next two weeks plus my Georgia Tech course is starting this Monday. 
 
