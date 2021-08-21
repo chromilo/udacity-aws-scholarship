@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 7:
+1.  Yesterday I completed AWS MLE lesson 3.8. 
+2.  Today I finished AWS MLE lesson 3.13. Updated my Github blog. 
+3.  Going to whistler today and will have multiple family outings scheduled with in-laws from out of town. Will be hard to get back to the lessons.
+
 Day 6:
 1.  Yesterday I completed AWS MLE lesson 3.4. I also started with the Udemy course by Ryan Kroonenburg to prepare for the AWS Solutions Architect Associate exam by Sep 12, 2021. Currently at lesson 2 out of 13 there.
 2.  Today I finished AWS MLE lesson 3.8. Updated my Github blog. 
