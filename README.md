@@ -9,8 +9,8 @@ What issues are blocking my progress?
 ---
 Day 8:
 1.  Yesterday I completed AWS MLE lesson 3.18.  
-2.  Today I went to whitepine beach today so didn't get to do too much studying. Worked on my SUSE cloud native porject 1. Updated my Github blog. 
-3.  The two courses at Georgia Tech started yesterday and I haven't had time to look at it yet. Taking Software Dev Process (CS 6300) and High Performance Computer Architecture (CS 6290) but will be dropping one by end of this week. Any preference?
+2.  Today I went to whitepine beach so didn't get to do too much studying. Worked on my SUSE cloud native project 1. Updated my Github blog. 
+3.  The two courses at Georgia Tech started yesterday and I haven't had time to look at it yet. Taking Software Dev Process (CS 6300) and High Performance Computer Architecture (CS 6290) but will be dropping one by end of this week. 
 
 Day 7:
 1.  Yesterday I completed AWS MLE lesson 3.8. 
