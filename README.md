@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 9:
+1.  Yesterday and the days before that, I completed AWS MLE lesson 3.24. I didn't try AWS DeepLens, DeepRacer, or DeepComposer yet as I need to figure out if I will incur costs.
+2.  Today I finished AWS MLE lesson 3 and started with lesson 4.1. I also completed section 4.26 out of 13 sections of the Udemy AWS Solutions Architect course. Updated my Github blog. 
+3.  I missed dropping Software Dev Process (CS 6300) course on Friday so I am stuck with that and High Performance Computer Architecture (CS 6290) for Fall 2021. Freaking out.
+
 Day 8:
 1.  Yesterday I completed AWS MLE lesson 3.18.  
 2.  Today I went to whitepine beach so didn't get to do too much studying. Worked on my SUSE cloud native project 1. Updated my Github blog. 
