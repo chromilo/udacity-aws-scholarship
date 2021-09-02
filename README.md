@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 10:
+1.  Yesterday and the days before that, I completed AWS MLE lesson 4.1. I also finished section 4.55 on EC2 of the Udemy AWS Solutions Architect course.
+2.  Today I finished AWS MLE lesso 4.6 and completed all of section 4 out of 13 sections of the Udemy AWS Solutions Architect course. Jumped to section 5.6 on Database summary, as I am running out of time there. Updated my Github blog. 
+3.  No blockers.
+
 Day 9:
 1.  Yesterday and the days before that, I completed AWS MLE lesson 3.24. I didn't try AWS DeepLens, DeepRacer, or DeepComposer yet as I need to figure out if I will incur costs.
 2.  Today I finished AWS MLE lesson 3 and started with lesson 4.1. I also completed section 4.26 out of 13 sections of the Udemy AWS Solutions Architect course. Updated my Github blog. 
