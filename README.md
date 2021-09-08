@@ -8,7 +8,7 @@ What issues are blocking my progress?
 
 ---
 Day 11:
-1.  Yesterday and the days before that, I downloaed the Jupyter notebook and csv file for the exercise.
+1.  Yesterday and the days before that, I downloaed the Jupyter notebook and csv file for the exercise. Copied it to my github repo and loaded it to my Google Colab.
 2.  Today I jumped to all the summary sections and quized in the Udemy AWS Associate Certificate course, as I am running out of time. I looked at some times to book my exam this weekend through PSI proctoring. Updated my Github blog. 
 3.  No blockers.
 
