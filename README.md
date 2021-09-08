@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 11:
+1.  Yesterday and the days before that, I downloaed the Jupyter notebook and csv file for the exercise.
+2.  Today I jumped to all the summary sections and quized in the Udemy AWS Associate Certificate course, as I am running out of time. I looked at some times to book my exam this weekend through PSI proctoring. Updated my Github blog. 
+3.  No blockers.
+
 Day 10:
 1.  Yesterday and the days before that, I completed AWS MLE lesson 4.1. I also finished section 4.55 on EC2 of the Udemy AWS Solutions Architect course.
 2.  Today I finished AWS MLE lesso 4.6 and completed all of section 4 out of 13 sections of the Udemy AWS Solutions Architect course. Jumped to section 5.6 on Database summary, as I am running out of time there. Updated my Github blog. 
