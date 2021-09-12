@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 12:
+1.  Yesterday and the days before that, I finished AWS MLE lesso 4.7 exercise in Google colab.
+2.  Today I finished lesson 4.9. Also booked my AWS recertification exam next week. Updated my Github blog. 
+3.  Busy with the SUSE CNAA nanodegre as well.
+
 Day 11:
 1.  Yesterday and the days before that, I downloaed the Jupyter notebook and csv file for the exercise. Copied it to my github repo and loaded it to my Google Colab.
 2.  Today I jumped to all the summary sections and quized in the Udemy AWS Associate Certificate course, as I am running out of time. I looked at some times to book my exam this weekend through PSI proctoring. Updated my Github blog. 
