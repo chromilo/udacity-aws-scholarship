@@ -7,8 +7,13 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 13:
+1.  Yesterday and the days before that, I finished AWS MLE lesson 4.9.
+2.  Today I finished lesson 4.12 exercisess on Google Colab. Updated my Github blog. 
+3.  Busy catching up wtih lessons for CS 6290 and with the SUSE CNAA nanodegree.
+---
 Day 12:
-1.  Yesterday and the days before that, I finished AWS MLE lesso 4.7 exercise in Google colab.
+1.  Yesterday and the days before that, I finished AWS MLE lesson 4.7 exercise in Google colab.
 2.  Today I finished lesson 4.9. Also booked my AWS recertification exam next week. Updated my Github blog. 
 3.  Busy with the SUSE CNAA nanodegre as well.
 
