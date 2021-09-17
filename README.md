@@ -9,7 +9,7 @@ What issues are blocking my progress?
 ---
 Day 14:
 1.  Yesterday and the days before that, I finished AWS MLE lesson 4.12. Also happy to announce I passed my AWS Solutions Architect recertification exam https://www.credly.com/badges/6663730a-07e1-40c5-aa97-e8ec8fabff86/
-2.  Today I finished lesson 5.1. Updated my Github blog. 
+2.  Today I finished lesson 5.3. Updated my Github blog. 
 3.  Busy catching up with the SUSE CNAA nanodegree.
 ---
 Day 13:
