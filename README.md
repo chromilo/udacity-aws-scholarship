@@ -7,6 +7,11 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 16:
+1.  Yesterday and the days before that, I started lesson 6.
+2.  Today I spent some time at a Tim Horton's and finished all of lesson 6. Now studying for assessment quiz and working to submit deepracer. Updated my Github blog. 
+3.  Work, school, scholarships.
+---
 Day 15:
 1.  Yesterday and the days before that, I finished AWS MLE lesson 5.3. Also applied to another scholarship, hope to get into to that as well.
 2.  Today I finished all of lesson 5 and starting on lesson 6. Updated my Github blog. 
