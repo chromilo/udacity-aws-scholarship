@@ -7,6 +7,13 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 17:
+1.  Yesterday and the days before that, I finished all the lessons.
+2.  Today I created my AWS Deepracer model, trained it for an hour, and submitted it for evaluation for three trials. I then submitted this model to the AWS virtual circuit racing league for October and placed 103/376. Here is my evaluation [video](https://drive.google.com/file/d/1AO7qRspqkv40PhSCzSKBdlc50VJpzyRG/view?usp=sharing). Now studying for assessment quiz. Updated my Github blog. 
+![image](https://user-images.githubusercontent.com/75153964/135791245-c07308c6-dbd2-4e64-bc3c-3c7747fd903e.png)
+
+3.  Work, school, scholarships.
+---
 Day 16:
 1.  Yesterday and the days before that, I started lesson 6.
 2.  Today I spent some time at a Tim Horton's and finished all of lesson 6. Now studying for assessment quiz and working to submit deepracer. Updated my Github blog. 
