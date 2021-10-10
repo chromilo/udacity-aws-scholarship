@@ -7,7 +7,7 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
-Day 20:
+Day 18:
 1.  Yesterday and the days before that, I submitted my entry to AWS Deepracer racing league for October, currently ranke 247/1102 in the open division.
 2.  Today I wrote the final assessment quiz. I also submitted my AWS Deepcomposer composition to "Melody Go Round" Chartbuster challenge called ["Ode to joy remix"](https://soundcloud.com/chromilo-amin) shared on SoundCloud. Updated my Github blog. 
 3.  Don't know how to edit my car model's hyperparameters and other settings prior to re-training my model. Also don't know if I can just import any MIDI file for composition.
