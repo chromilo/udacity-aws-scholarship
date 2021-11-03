@@ -7,6 +7,12 @@ What will I work on today?
 What issues are blocking my progress?  
 
 ---
+Day 19:
+1.  Yesterday and the days before that, I completed the challenge and received my graduation of completion certificate from Udacity.
+https://graduation.udacity.com/nd065
+![image](https://user-images.githubusercontent.com/75153964/139979134-44cfc386-5ece-4b91-a603-bd0941a9e6a8.png)  
+---
+
 Day 18:
 1.  Yesterday and the days before that, I submitted my entry to AWS Deepracer racing league for October, currently ranke 247/1102 in the open division.
 2.  Today I wrote the final assessment quiz. I also submitted my AWS Deepcomposer composition to "Melody Go Round" Chartbuster challenge called ["Ode to joy remix"](https://soundcloud.com/chromilo-amin) shared on SoundCloud. Updated my Github blog. 
